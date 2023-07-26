@@ -1,5 +1,5 @@
-import 'styled-components';
-import { defaultTheme } from '../syles/themes/default';
+import 'styled-components'
+import { defaultTheme } from '../syles/themes/default'
 
 type ThemeType = typeof defaultTheme
 
