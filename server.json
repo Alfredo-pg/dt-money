@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "description": "Hamburgues",
+      "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
       "price": 60,
@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-07-26T23:27:48.594Z",
       "id": 5
+    },
+    {
+      "description": "Chocolate",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-13T14:46:05.816Z",
+      "id": 6
     }
   ]
 }
